@@ -1,1 +1,11 @@
-Variables: 
+Variables: son como pequeños espacios de menoria, en los cuales se les puede dar valor a un dato.
+
+Strings: son bloques o segmentos de texto, solo eso. Se definen entre comillas ya sea simples o dobles.
+
+Funciones: son objetos invocables o "callable objects" que se ejecutan dentro de nuestro programa de manera independiente.
+Posee la palabra clave "function" y dentro de la misma, va el codigo a ejecutar.
+
+Declaraciones (if): las Declaraciones, son condiciones que se ejecutan dentro de nuestro programa, por ejemplo, la declaracion "IF"
+se utilizan para determinar una condicion a un codigo. Si esta se cumple, el codigo se ejecuta. 
+
+Valores Booleanos: son los que se utilizan para definir si algo es "true" o "false". Provienen de la Logica Booleana.

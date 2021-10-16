@@ -1,0 +1,7 @@
+Bucles "for": son similares a "if" pero mas complejos. Su palabra clave es "for" y su estructura se compone por un () seguido de una llave.
+Dentro del parentesis se declara una variable, luego una expresion condicional que hara que se repita dicha variable hasta que la misma sea falsa, y por ultimo incrementamos la variable.
+
+Operadores logicos:
+"&&" : significa "and" o "Y" y evalua dos expresiones y solamente se ejecuta si ambas son verdaderas. Si una de ellas es "false" devolvera false y no se ejecutara.
+"||" : significa "OR" o "O" y evalua dos expresiones, en este caso si una de las expresiones es verdadera se ejecurara.
+"!" : significa "NOT" y devolvera el valor booleano opuesto a lo que se le asigne.
